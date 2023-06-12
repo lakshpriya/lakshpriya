@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshpriya
 - 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning node jd
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
