@@ -1,0 +1,2 @@
+Tutorial https://www.youtube.com/watch?v=lI1ae4REbFM&t=1110s
+Code repo https://replit.com/@priyagunasekara/FORK-THIS-JavaScript-Course-by-Clever-Programmer-1#projects/rockpaperscissors/exercise/script.js
